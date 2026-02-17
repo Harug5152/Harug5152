@@ -9,8 +9,6 @@ Age:21
 location:Japan
 
 
-Thank you for reading my poor Engilish. I'm learning English too.
-
 
 <!---
 Harug5152/Harug5152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
