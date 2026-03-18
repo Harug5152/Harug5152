@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing and creating some softwares.
 - 🌱 I’m currently learning ...C/C++ and cyber security.
 - 💞️ I’m looking to collaborate on ...nothing.
-- 📫 How to reach me ... Twitter account: @Harug_days .
+- 📫 How to reach me ... Twitter account: @harug_game .
 
 ---profile---
 Age:21
